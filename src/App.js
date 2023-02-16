@@ -230,28 +230,14 @@ class App extends Component {
                 <div className="welcomeText col text-center fadeIn">{text.welcome}</div>
               </div>
               <div className="row mt-5">
-                {/* <div className="bodyText bodyFull col mobile fadeIn">{text.bodyFull}</div> */}
                 <div className="dateText col-12 fadeIn">{text.date}</div>
                 <div className="addressText col-12 fadeIn">{text.address}</div>
                 <div className="addressText col-12 fadeIn">{text.address2}</div>
               </div>
-              <div className="row">
-                {/* <div className="bodyText body1 bodyTop col fadeIn">{text.body1}</div> */}
-                {/* <div className="col desktop" /> */}
-              </div>
-              <div className="row">
-                {/* <div className="bodyText bodyMid col fadeIn">{`${text.name}'s`}</div> */}
-                {/* <div className="col desktop" /> */}
-              </div>
-              <div className="row">
-                {/* <div className="col desktop" /> */}
-                {/* <div className="bodyText bodyBottom col fadeIn">{text.body2}</div> */}
-              </div>
-              <div className="row">
-                {/* <div className="dateText col-12 fadeIn">{text.date}</div>
-                <div className="addressText col-12 fadeIn">{text.address}</div>
-                <div className="addressText col-12 fadeIn">{text.address2}</div> */}
-              </div>
+              <div className="row" />
+              <div className="row" />
+              <div className="row" />
+              <div className="row" />
               <div className="row invitationText-row pt-5">
                 <div className="invitationText col-12 fadeIn">
                   {text.invitation}
